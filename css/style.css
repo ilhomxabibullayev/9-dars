@@ -138,14 +138,12 @@
   color: #FFFFFF;
 }
 .hero .hero__container .hero__button .hero__images {
-  width: 40px;
-  height: 40px;
+  width: 24px;
+  height: 24px;
   top: 675px;
   left: 378px;
   gap: 0px;
   opacity: 0.1px;
-  background-color: #FEE4E5;
-  border-radius: 50%;
 }
 .hero .hero__container .hero__button .hero__sub-title {
   font-family: Outfit;
